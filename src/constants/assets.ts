@@ -1,0 +1,16 @@
+export const ASSETS = {
+  NAVBAR_LOGO: "/imgs/navbar-logo.png",
+  HAMBURGER_ICON: "/imgs/hamburger-icon.png",
+  PINMAP: "/imgs/pinmap.svg",
+  PIKONE: "/imgs/pik-1.png",
+  PIKTWO: "/imgs/pik-2.png",
+  PIKTHREE: "/imgs/pik-3.png",
+  CALENDAR: "/imgs/calendar.svg",
+  LOGO: "/imgs/logo.png",
+  PERSON: "/imgs/person.svg",
+  CLOCK: "/imgs/clock.svg",
+  EMAIL: "/imgs/mail.svg",
+  PHONE: "/imgs/phone.svg",
+  PEN: "/imgs/pen.svg",
+  IDN_FLAG: "/imgs/idn-flag.svg",
+};
